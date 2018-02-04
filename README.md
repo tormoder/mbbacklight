@@ -1,4 +1,4 @@
-# mbpbacklight
+# mbbacklight
 
 Utility for controlling the screen and keyboard backlight on my Macbook running GNU/Linux.
 
